@@ -1,2 +1,2 @@
 # Fitting
- Mathematical curve-fitting library for Arduino
+ A mathematical curve-fitting and linear regression library for Arduino
