@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Fitting
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Interpolation                  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+interpolationInitialization    KEYWORD2
+interpolationUpdate            KEYWORD2
+sizeUpdate                     KEYWORD2    
+linear                         KEYWORD2 
+getLinearDerivative            KEYWORD2 
+linearDerivativeAvailable      KEYWORD2             
+linearAvailable                KEYWORD2
+lagrange                       KEYWORD2      
+linearRegression               KEYWORD2
+getLinearRegressionDerivative  KEYWORD2                 
+exponentialFitting             KEYWORD2     
+getExponentialBase             KEYWORD2             
+getExponentialCoeff            KEYWORD2         
+powerFitting                   KEYWORD2         
+getPowerCoeff                  KEYWORD2             
+getPowerPower                  KEYWORD2             
